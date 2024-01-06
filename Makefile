@@ -2,7 +2,7 @@
 CC = cc
 
 BIN = ln
-OBJ = ln.o
+OBJ = main.o
 
 LN_CFLAGS = -std=c99 -D_POSIX_C_SOURCE=200809L $(CFLAGS)
 
