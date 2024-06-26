@@ -1,7 +1,10 @@
-/* See file COPYING for licensing rules */
+// SPDX-License-Identifier: GPL-3.0-or-later
+// SPDX-FileCopyrightText: 2024 kurth4cker <kurth4cker@gmail.com>
 
 #include <stdio.h>
 #include <unistd.h>
+
+#include "fmt.h"
 
 int
 main(int argc, char **argv)
